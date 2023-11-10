@@ -9,3 +9,20 @@ This repository showcases an Operations Efficiency Dashboard project focused on 
 ## SQL Code
 
 The SQL code file (`dashboard_code.sql`) includes queries to retrieve and analyze data for the dashboard.
+
+## How to Use
+
+1. *Prerequisites:*
+   - [List any prerequisites or dependencies users need to have installed]
+
+2. *Setting up the Dashboard:*
+   - [Provide step-by-step instructions on how users can set up and run the dashboard]
+
+3. *Viewing Metrics:*
+   - [Explain how users can interpret the metrics displayed on the dashboard]
+
+4. *Data Sources:*
+   - [Specify where the dashboard retrieves data from]
+
+5. *Feedback and Support:*
+   - [Encourage users to provide feedback or seek support]
