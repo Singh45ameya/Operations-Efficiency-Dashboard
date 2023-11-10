@@ -26,3 +26,7 @@ The SQL code file (`dashboard_code.sql`) includes queries to retrieve and analyz
 
 5. *Feedback and Support:*
    - [Encourage users to provide feedback or seek support]
+  
+   ## Documentation
+
+For detailed information on the project and how to use the Operations Efficiency Dashboard, refer to the [Documentation](doc/README.md).
